@@ -1,1 +1,1 @@
-# Idea-Challenge
+# AI Idea-Challenge
